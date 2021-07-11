@@ -24,4 +24,4 @@ You can check all your notes on the let side of the screen.
 
 
 ## For More Information
-View my work portfolio profile at https://volchenok89.github.io/
+View my work portfolio profile at https://github.com/Volchenok89
