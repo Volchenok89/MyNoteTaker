@@ -22,6 +22,11 @@ You open a new note, write title and memo, save it.
 You can check all your notes on the let side of the screen. 
 
 
+![notetaker1](https://user-images.githubusercontent.com/77917594/125179856-96c1bf80-e1a7-11eb-8db7-18a992e62bcb.png)
+
+
+
+
 
 ## For More Information
 View my work portfolio profile at https://github.com/Volchenok89
